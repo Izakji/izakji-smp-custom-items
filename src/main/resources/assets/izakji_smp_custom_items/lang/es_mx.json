@@ -1,0 +1,5 @@
+{
+  "itemGroup.izakji_smp_custom_items.izakji_smp_custom_items_items_tab": "Izakji SMP Items",
+  "item.izakji_smp_custom_items.izakji_tablet": "Tableta de Izakji",
+  "item.izakji_smp_custom_items.izakji_tablet.invalid_coordinates": "¡Coordenadas de teletransporte no configuradas correctamente! Revisa tu archivo de configuración."
+}

@@ -1,0 +1,5 @@
+{
+  "itemGroup.izakji_smp_custom_items.izakji_smp_custom_items_items_tab": "Izakji SMP Items",
+  "item.izakji_smp_custom_items.izakji_tablet": "Izakji Tablet",
+  "item.izakji_smp_custom_items.izakji_tablet.invalid_coordinates": "Teleportation coordinates not properly configured! Check your config file."
+}

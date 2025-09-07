@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "emissive": "izakji_smp_custom_items:item/izakji_tablet_e",
+    "layer0": "izakji_smp_custom_items:item/izakji_tablet"
+  }
+}
